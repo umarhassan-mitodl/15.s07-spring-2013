@@ -1,0 +1,89 @@
+leftnav:
+- identifier: 2354f691-c344-3414-8013-73c49d1944e8
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: d54ec244-9b96-389a-e4e4-be50d2e06c64
+  name: Course Expectations
+  pageRef: /pages/syllabus/course-expectations
+  parent: 2354f691-c344-3414-8013-73c49d1944e8
+  weight: 20
+- identifier: 2cb6e376-84cf-9ec6-bdf2-066c1411f3f2
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 40
+- identifier: 2364f2ee-45d9-3648-eaf6-a1c5265391dc
+  name: Course Goals and Measuring Success
+  pageRef: /pages/instructor-insights/course-goals-and-measuring-success
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 50
+- identifier: 7f3566e3-50e6-d8ac-1998-bc145b7b5121
+  name: Pre-course Activities
+  pageRef: /pages/instructor-insights/pre-course-activities
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 60
+- identifier: 20597891-b286-88ee-357b-da6fdba1d86e
+  name: Collaboration with Partner Organizations
+  pageRef: /pages/instructor-insights/collaboration-with-partner-organizations
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 70
+- identifier: 01b61425-8619-596a-c333-24796b9e4e49
+  name: Pre-trip Deliverables
+  pageRef: /pages/instructor-insights/pre-trip-deliverables
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 80
+- identifier: e702a1f5-1b29-364d-5e70-ac34ffea7063
+  name: Post-trip Work
+  pageRef: /pages/instructor-insights/post-trip-work
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 90
+- identifier: e7144194-7217-3f8e-4991-6a06d77ad9a6
+  name: Evolution of the Course
+  pageRef: /pages/instructor-insights/evolution-of-the-course
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 100
+- identifier: d74125d9-2238-a20c-d484-c453b721c3ce
+  name: Reflections and Advice
+  pageRef: /pages/instructor-insights/reflections-and-advice
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 110
+- identifier: cad09ac0-4718-423b-a9fa-221959f7b04a
+  name: Applications Beyond the Course
+  pageRef: /pages/instructor-insights/applications-beyond-the-course
+  parent: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
+  weight: 120
+- identifier: 1601f42d-e42f-e62f-c909-bc0f6e6bdd73
+  name: Readings
+  pageRef: /pages/readings
+  weight: 130
+- identifier: 3682febb-c6a8-5c41-3d0a-fb78b4019874
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 140
+- identifier: a3b128d8-e8d1-84e7-f370-f97e36e8b3ba
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 150
+- identifier: 564190aa-addb-75cb-a44f-633498ae2eb9
+  name: Deliverables and Action Steps
+  pageRef: /pages/assignments/deliverables-and-action-steps
+  parent: a3b128d8-e8d1-84e7-f370-f97e36e8b3ba
+  weight: 160
+- identifier: 3818c9e7-1d22-9879-8b06-b951bb3fadcf
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 170
+- identifier: dbdb449f-9aea-f745-4b10-c97c28a45f1b
+  name: Unjani Clinic
+  pageRef: /pages/projects/unjani-clinic
+  parent: 3818c9e7-1d22-9879-8b06-b951bb3fadcf
+  weight: 180
+- identifier: a9073ed2-5726-e216-9189-c7ea6b4e466e
+  name: L V Prasad Eye Institute
+  pageRef: /pages/projects/l-v-prasad-eye-institute
+  parent: 3818c9e7-1d22-9879-8b06-b951bb3fadcf
+  weight: 190
