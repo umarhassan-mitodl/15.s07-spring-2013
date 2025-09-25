@@ -1,0 +1,12 @@
+---
+content_type: external-resource
+external_url: http://www.ssireview.org/articles/entry/the_power_of_unreasonable_teams
+has_external_license_warning: true
+hide_download: true
+hide_download_original: null
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: check_failed
+title: The Power of Unreasonable Teams
+uid: 3fc7b064-9d3c-4ce5-9295-45b6df0a9159
+wayback_url: ''
+---
