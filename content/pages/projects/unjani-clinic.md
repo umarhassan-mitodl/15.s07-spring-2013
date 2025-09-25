@@ -4,6 +4,8 @@ description: This section provides materials produced by students for Imperial H
   Services, Unjani Clinic, as part of a team project. Materials presented include
   an organizational profile, executive summary, poster, pre-trip, on-site, and wrap-up
   deliverables, and blog posts.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

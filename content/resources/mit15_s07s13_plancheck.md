@@ -4,6 +4,8 @@ description: This file contains information regarding data and measurement.
 file: /courses/15-s07-globalhealth-lab-spring-2013/b362f9187e3969fb193bb53d1af0c439_MIT15_S07S13_plancheck.pdf
 file_size: 99203
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

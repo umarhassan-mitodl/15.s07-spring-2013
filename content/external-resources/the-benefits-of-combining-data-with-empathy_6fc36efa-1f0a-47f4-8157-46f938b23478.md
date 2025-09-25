@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://sloanreview.mit.edu/article/the-benefits-of-combining-data-with-empathy/
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: The Benefits of Combining Data with Empathy

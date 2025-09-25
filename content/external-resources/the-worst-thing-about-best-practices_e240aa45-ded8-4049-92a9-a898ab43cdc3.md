@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.conference-board.org/publications/publicationdetail.cfm?publicationid=2101
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: The Worst Thing About Best Practices

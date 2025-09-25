@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/6fb0d5f96de1514a204981267b1728c2_MIT15_S07S13_profdevplan.pdf
 file_size: 129612
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

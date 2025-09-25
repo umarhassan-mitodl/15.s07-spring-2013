@@ -4,6 +4,8 @@ description: This file contains information regarding host work plan.
 file: /courses/15-s07-globalhealth-lab-spring-2013/2d73dd23053862665420aa67748f35c5_MIT15_S07S13_host_wor_unj.pdf
 file_size: 762365
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

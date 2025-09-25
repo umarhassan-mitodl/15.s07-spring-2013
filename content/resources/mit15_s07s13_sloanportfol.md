@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/4721537616bf1561ccc432c598a740a1_MIT15_S07S13_sloanportfol.pdf
 file_size: 208736
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

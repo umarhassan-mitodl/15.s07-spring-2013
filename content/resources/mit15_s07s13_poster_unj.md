@@ -4,6 +4,8 @@ description: 'This file contains information regarding poster. '
 file: /courses/15-s07-globalhealth-lab-spring-2013/8ab9fc12eafccc3022604465f2eebc08_MIT15_S07S13_poster_unj.pdf
 file_size: 527500
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

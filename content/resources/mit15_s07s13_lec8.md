@@ -4,6 +4,8 @@ description: This file contains information regarding health commodities and dis
 file: /courses/15-s07-globalhealth-lab-spring-2013/b57be16c7278c30b9940b93372f77655_MIT15_S07S13_lec8.pdf
 file_size: 745391
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

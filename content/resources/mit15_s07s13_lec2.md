@@ -5,6 +5,8 @@ description: "This file contains information regarding technology and strategy: 
 file: /courses/15-s07-globalhealth-lab-spring-2013/dba5587b1f98ee2b043191d0f134c567_MIT15_S07S13_lec2.pdf
 file_size: 920420
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

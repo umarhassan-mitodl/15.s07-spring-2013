@@ -4,6 +4,8 @@ description: This section provides details on the course assignments, including 
   work and contributions, the project foundation management toolkit, the host portfolio,
   and the Sloan portfolio.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

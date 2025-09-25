@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of due dates for deliverables and
   action steps for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
