@@ -5,9 +5,9 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: valid
+status: broken
 title: MIT Sloan Innovation Period (SIP)
 uid: 155edcc2-1663-45ca-990c-333f7920a9eb
-url_status_code: 200
+url_status_code: 404
 wayback_url: ''
 ---

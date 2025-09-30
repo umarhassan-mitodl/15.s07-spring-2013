@@ -5,8 +5,9 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: check_failed
+status: valid
 title: Can Management Consulting Help Small Firms Grow?
 uid: cef82abb-a9ea-4f9b-9ec0-85a1b72a92ae
+url_status_code: 200
 wayback_url: ''
 ---
