@@ -4,8 +4,6 @@ description: This file contains information regarding blog posts.
 file: /courses/15-s07-globalhealth-lab-spring-2013/def3310627b2b9d6d4adf3856f967057_MIT15_S07S13_blogposts_lvp.pdf
 file_size: 1715543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

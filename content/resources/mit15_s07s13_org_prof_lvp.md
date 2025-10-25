@@ -4,8 +4,6 @@ description: This file contains information regarding organizational profile.
 file: /courses/15-s07-globalhealth-lab-spring-2013/b4d3e44ff84cb7a23dde13b8730af57e_MIT15_S07S13_org_prof_lvp.pdf
 file_size: 294495
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

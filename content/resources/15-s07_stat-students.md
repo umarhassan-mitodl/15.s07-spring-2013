@@ -4,8 +4,6 @@ description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/e94bcf1e5f9be095e34d99c0f79067fe_15-S07_stat-students.png
 file_size: 2760
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -5,8 +5,6 @@ description: 'This file contains information regarding debrief: highlights, chal
 file: /courses/15-s07-globalhealth-lab-spring-2013/68704f55c47648f1afcaa675dc575e90_MIT15_S07S13_posttripchk.pdf
 file_size: 167842
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

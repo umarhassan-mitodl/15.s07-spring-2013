@@ -4,8 +4,6 @@ description: This file contains information regarding executive summary.
 file: /courses/15-s07-globalhealth-lab-spring-2013/69ca740e3efa134c8d1a783bb921e3f8_MIT15_S07S13_exe_sum_unj.pdf
 file_size: 230394
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

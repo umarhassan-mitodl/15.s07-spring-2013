@@ -4,8 +4,6 @@ description: This section provides details on team projects for the course along
   links to the work produced by the student teams for their respective projects. Materials
   presented include pre-trip, on-site, and wrap-up deliverables, as well as supporting
   resources.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

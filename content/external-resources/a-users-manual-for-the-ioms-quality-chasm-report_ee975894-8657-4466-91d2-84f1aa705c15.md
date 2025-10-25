@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://dx.doi.org/10.1377/hlthaff.21.3.80
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: A User's Manual for the IOM's 'Quality Chasm' Report

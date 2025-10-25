@@ -4,8 +4,6 @@ description: This file contains information regarding finance and revenue models
 file: /courses/15-s07-globalhealth-lab-spring-2013/14b400f01f0d19af2039f2c34a663283_MIT15_S07S13_intrmstudychk.pdf
 file_size: 185930
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
