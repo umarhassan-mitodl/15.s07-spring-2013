@@ -27,7 +27,7 @@ S1
 
 ### Required Readings
 
-Karnani, Aneel, Bernard Garrette, et al. "[Better Vision for the Poor.](https://ssir.org/articles/entry/better_vision_for_the_poor)" *Stanford Social Innovation Review,* Spring 2011, 66–71.
+Karnani, Aneel, Bernard Garrette, et al. "{{% resource_link "9483ba51-62f0-442f-ad10-c34db4cc3610" "Better Vision for the Poor." %}}" *Stanford Social Innovation Review,* Spring 2011, 66–71.
 
 {{% resource_link "336f31a2-e41a-41d5-b578-f1efcba8890a" "Fred Hollows Foundation" %}}, IAPB, and Australian Government. "Eye health: Building a vision for health systems and partnerships."  2012.
 
@@ -41,7 +41,7 @@ S2
 
 ### Required Readings
 
-Yadav, Prashant, Orla Stapleton, et al. "[Learning from Coca-Cola.](http://iaphl.org/wp-content/uploads/2016/05/SSIR-Winter_2013_Learning_From_Coca_Cola-1.pdf)" *Stanford Social Innovation Review*, Winter 2013, 51–5.
+Yadav, Prashant, Orla Stapleton, et al. "{{% resource_link "c1742c01-d1bc-48da-82d1-10f1df89ebf0" "Learning from Coca-Cola." %}}" *Stanford Social Innovation Review*, Winter 2013, 51–5.
 
 Sinha, Sidhartha R, and Michele Barry. "\[Health Technologies and Innovation in the Global Health Arena\]({{% resource_link "d5a07f96-2f18-4ebf-96c7-e8a351dce4d4" "http://dx.doi.org/" %}} 10.1056/NEJMp1108040)." *The New England Journal of Medicine* 365 (2011): 779–82.
 
@@ -123,7 +123,7 @@ Chandrasekhar, R., and Murray Bryant. "{{% resource_link "00df649f-e3b0-4a8b-a5d
 
 Maru, Duncan Smith-Rohrberg, Aditya Sharma, et al. "{{% resource_link "757bead6-da09-40ea-bb0e-e5fc885170ab" "Global Health Delivery 2.0: Using open-access technologies for transparency and operations research" %}}." *PLoS Medicine* 6, no. 12 (2009): e100015.
 
-Brest, Paul. "[Risky Business.](https://ssir.org/articles/entry/risky_business_2)" *Stanford Social Innovation Review,* Summer 2012, 16–9.
+Brest, Paul. "{{% resource_link "d1e27995-deac-4b8f-865c-2925d89415fb" "Risky Business." %}}" *Stanford Social Innovation Review,* Summer 2012, 16–9.
 
 Agarwal, Ritu, and Peter Weill. "{{% resource_link "6fc36efa-1f0a-47f4-8157-46f938b23478" "The Benefits of Combining Data with Empathy" %}}." *MIT Sloan Management Review,* September 2012, 35–41.
 
@@ -165,7 +165,7 @@ Bloom, Nicholas, Rebecca Homkes, et al. "{{% resource_link "c7d78ffc-055e-4e67-8
 
 Bloom, Nicholas, Benn Eifert, et al. "{{% resource_link "309bcad1-368b-4324-b4c9-9e2f4fa5806b" "Does Management Matter? Evidence from India" %}}." NBER Working Paper no. 16658, 2012.
 
-Duflo, Annie, and Dean Karlan. "[Can Management Consulting Help Small Firms Grow?](https://ssir.org/articles/entry/can_management_consulting_help_small_firms_grow)" *Stanford Social Innovation Review,* Summer 2012, 7–8.
+Duflo, Annie, and Dean Karlan. "{{% resource_link "7c683691-556d-4cc5-a38f-59367cf476e0" "Can Management Consulting Help Small Firms Grow?" %}}" *Stanford Social Innovation Review,* Summer 2012, 7–8.
 
 Bloom, Nicholas, Raffaella Sadun, et al. "{{% resource_link "d51aeb37-8ca5-4f95-9a1c-e4e8d1cb8460" "Does Management Really Work?" %}}" *Harvard Business Review,* November 2012, 3–7.
 
@@ -281,17 +281,17 @@ S14
 
 ### Required Readings
 
-Crutchfield, Leslie, and Heather McLeod-Grant. "[Local Forces for Good.](https://ssir.org/articles/entry/local_forces_for_good)" *Stanford Social Innovation Review,* Summer 2012, 36–41.
+Crutchfield, Leslie, and Heather McLeod-Grant. "{{% resource_link "70aeedee-8658-4c69-8b18-1a726453f536" "Local Forces for Good." %}}" *Stanford Social Innovation Review,* Summer 2012, 36–41.
 
 Hartigan, Pamela, and Charmian Love. "The Power of Unreasonable Teams." *Stanford Social Innovation Review,* Winter 2013, 19–20.
 
-Seelos, Christian, and Johanna Mair. "[Innovation is Not the Holy Grail.](https://ssir.org/articles/entry/innovation_is_not_the_holy_grail)" *Stanford Social Innovation Review,* Fall 2012, 45–9.
+Seelos, Christian, and Johanna Mair. "{{% resource_link "9e0c8d88-72ee-4619-891d-7f99eb62ba5b" "Innovation is Not the Holy Grail." %}}" *Stanford Social Innovation Review,* Fall 2012, 45–9.
 
 Davenport, Thomas. "{{% resource_link "055920ef-a81d-4faa-a5bd-0da6e811875a" "The Wisdom of Your In-House Crowd" %}}." *Harvard Business Review,* May 2012.
 
 Spreitzer, Gretchen, and Christine Porath. "{{% resource_link "1ec65462-49e7-432f-8213-a47ff16495c9" "Creating Sustainable Performance" %}}." *Harvard Business Review,* January-February 2012.
 
-Wales, Jane. "[Framing the issue.](https://ssir.org/articles/entry/framing_the_issue_2)" Sponsored Supplement to *Stanford Social Innovation Review* *Advancing Evaluation Practices in Philanthropy*, Summer 2012.
+Wales, Jane. "{{% resource_link "5eead57e-d10c-4b90-8775-b892b8c5a184" "Framing the issue." %}}" Sponsored Supplement to *Stanford Social Innovation Review* *Advancing Evaluation Practices in Philanthropy*, Summer 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -303,7 +303,7 @@ S15
 
 ### Required Readings
 
-Onie, Rebecca, Paul Farmer, et al. "[Realigning health with care: Lessons in delivering more with less.](https://ssir.org/articles/entry/realigning_health_with_care)" *Stanford Social Innovation Review,* Summer 2012.
+Onie, Rebecca, Paul Farmer, et al. "{{% resource_link "c37ffcba-f7b5-48b1-ac9d-d0bbff72fb8f" "Realigning health with care: Lessons in delivering more with less." %}}" *Stanford Social Innovation Review,* Summer 2012.
 
 "{{% resource_link "d9ed9c06-d422-486a-b4b8-03a0ea2939f2" "Health Policy Brief: Patient Engagement" %}}." *Health Affairs*, February 14, 2013.
 
